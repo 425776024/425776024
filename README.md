@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [nlpcda](https://github.com/425776024/nlpcda),[python-leetcode](https://github.com/425776024/easy_leetcode)
+- 🌱 I’m currently learning Python、NLP
+- 🤔 I’m looking for help with Github repository [python-leetcode](https://github.com/425776024/easy_leetcode)
+
+![image title](http://www.zpoint.xyz:8080/count/tag.svg?url=github%2Fzpoint)
