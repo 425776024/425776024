@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [nlpcda](https://github.com/425776024/nlpcda),[python-leetcode](https://github.com/425776024/easy_leetcode)
+- 🔭 I’m currently working on [nlpcda](https://github.com/425776024/nlpcda) and [python-leetcode](https://github.com/425776024/easy_leetcode)
 - 🌱 I’m currently learning Python、NLP
 - 🤔 I’m looking for help with Github repository [python-leetcode](https://github.com/425776024/easy_leetcode)
 
