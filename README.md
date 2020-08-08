@@ -1,6 +1,10 @@
-### Hi there 👋 ![访问次数](http://www.zpoint.xyz:8080/count/tag.svg?url=github.com/425776024)
+### Hi there 👋
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/425776024/count.svg" />
+</p>
 
 - 🌱 I’m currently learning Python、NLP
 - 🤔 I’m looking for help with Github repository [python-leetcode](https://github.com/425776024/easy_leetcode)
