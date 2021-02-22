@@ -5,4 +5,5 @@
   <img src="https://profile-counter.glitch.me/425776024/count.svg" />
 </p>
 
-- 🌱 I’m currently learning Python、NLP 【打工人】
+- 🐦 Python and NLP newbie
+- 🌱 打工人
