@@ -5,5 +5,6 @@
   <img src="https://profile-counter.glitch.me/425776024/count.svg"/>
 </p>
 
-- 🐦 Python and NLP newbie
+-  Python and NLP 🐦 
 - 🌱 打工人
+- （被迫）半个CVer
