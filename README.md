@@ -7,4 +7,4 @@
 
 - 🐦 Python Rust and NLP
 - 🌱 打工人
-- 😭（被迫）半个CVer
+
